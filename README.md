@@ -1,5 +1,8 @@
 # kubectl tips
 
+## TOC
+[Short resource types](#short-resource-types)
+
 ## Short resource types
 
 
